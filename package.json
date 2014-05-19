@@ -1,0 +1,22 @@
+{
+  "name": "proxytable",
+  "version": "1.0.0",
+  "description": "Proxy table for http-proxy",
+  "main": "ProxyTable.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tunderdomb/proxytable.git"
+  },
+  "keywords": [
+    "proxy"
+  ],
+  "author": "Nagy Zoltan <tunderdomb@gmail.com> (tunderdomb)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tunderdomb/proxytable/issues"
+  },
+  "homepage": "https://github.com/tunderdomb/proxytable"
+}
