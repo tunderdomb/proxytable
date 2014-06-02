@@ -1,6 +1,6 @@
 {
   "name": "proxytable",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Proxy table for http-proxy",
   "main": "ProxyTable.js",
   "scripts": {
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/tunderdomb/proxytable/issues"
   },
-  "homepage": "https://github.com/tunderdomb/proxytable"
+  "homepage": "https://github.com/tunderdomb/proxytable",
+  "dependencies": {
+    "minimatch": "~0.3.0"
+  }
 }
